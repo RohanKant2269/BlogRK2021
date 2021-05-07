@@ -97,7 +97,7 @@ video {
 
 .videos-recomendados{
     margin-bottom: 1%;
-    background-image: linear-gradient(rgba(187, 178, 178, 0.80) 0%, rgba(187,178,178,0.80) 100%), url(./img/web\ calculo.jpg);
+    background-image: linear-gradient(rgba(187, 178, 178, 0.80) 0%, rgba(187,178,178,0.80) 100%), url(web calculo.jpg);
     background-position: center -213px;
 }
 
