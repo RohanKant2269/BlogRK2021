@@ -219,7 +219,7 @@ video {
         overflow: visible;
     }
 
-    .videos-recomendados .contenedor-carrusel .carrusel{
+    .videos-recomendados .contenedor-carrusel .carrusel {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 3%;
@@ -228,12 +228,12 @@ video {
 
     .videos-recomendados .indicadores,
     .videos-recomendados .flecha-izquierda,
-    .videos-recomendados .flecha-derecha{
+    .videos-recomendados .flecha-derecha {
         display: none;
     }
 	
-	.videos-recomendados .contenedor-carrusel .carrusel .peliculas.hover{
-    transform: none;
+.videos-recomendados .contenedor-carrusel .carrusel .peliculas.hover {
+   transform: none;
 	}
 		
 }
