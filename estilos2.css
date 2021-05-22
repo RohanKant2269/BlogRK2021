@@ -233,8 +233,7 @@ video {
     }
 	
 	.videos-recomendados .contenedor-carrusel .carrusel .peliculas.hover{
-    transform: scale(1.1);
-    transform-origin: center;
+    transform: none;
 	}
 		
 }
