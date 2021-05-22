@@ -215,11 +215,6 @@ video {
 		flex-direction: column;
 	}
 
-	aside {
-		position: static;
-		margin: 6% 3% 3% 45%;
-	}
-
     .videos-recomendados .contenedor-carrusel {
         overflow: visible;
     }
@@ -228,7 +223,7 @@ video {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 3%;
-        margin: 2% 6%;
+        margin: 2% 12%;
     }
 
     .videos-recomendados .indicadores,
