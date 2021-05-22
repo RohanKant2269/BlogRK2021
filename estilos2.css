@@ -223,7 +223,7 @@ video {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 3%;
-        margin: 2% 12%;
+        margin: 2% 20%;
     }
 
     .videos-recomendados .indicadores,
