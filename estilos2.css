@@ -228,7 +228,7 @@ video {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         gap: 3%;
-        margin: 0% 2% 10% 2%;
+        margin: 2% 6%;
     }
 
     .videos-recomendados .indicadores,
