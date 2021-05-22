@@ -231,5 +231,10 @@ video {
     .videos-recomendados .flecha-derecha{
         display: none;
     }
-
+	
+	.videos-recomendados .contenedor-carrusel .carrusel .peliculas.hover{
+    transform: scale(1.1);
+    transform-origin: center;
+	}
+		
 }
